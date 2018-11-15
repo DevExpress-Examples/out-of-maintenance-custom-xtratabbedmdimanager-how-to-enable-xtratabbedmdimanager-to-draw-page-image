@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/WindowsFormsApplication24/Form1.cs) (VB: [Form1.vb](./VB/WindowsFormsApplication24/Form1.vb))
+* [MyXtraTabbedMdiManager.cs](./CS/WindowsFormsApplication24/MyXtraTabbedMdiManager.cs) (VB: [MyXtraTabbedMdiManager.vb](./VB/WindowsFormsApplication24/MyXtraTabbedMdiManager.vb))
+<!-- default file list end -->
 # Custom XtraTabbedMdiManager - How to enable XtraTabbedMdiManager to draw page images with a specific size
 
 
